@@ -105,3 +105,18 @@ a {
     color-scheme: dark;
   }
 }
+.main {
+  background-color: burlywood;
+  height: 100vh;
+}
+.btn {
+  margin: 5px;
+  width: 150px;
+  height: 40px;
+  border-radius: 5px;
+  background-color: firebrick;
+}
+.btn:hover {
+  color: firebrick;
+  background-color: #00000010;
+}
